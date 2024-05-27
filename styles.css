@@ -1,0 +1,14 @@
+/* styles.css */
+h1, h2 {
+    color: #6d4c41; /* Color of H1 and H2 elements */
+    font-family: Impact, sans-serif; /* Font family for H1 and H2 */
+}
+
+html {
+    font-family: Georgia, serif; /* Base font for the whole page */
+}
+img {
+    width: 200px;
+    height: auto;
+    
+}
